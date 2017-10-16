@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_keyboard_arrow_left.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_keyboard_arrow_left.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_bookmark_outline.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_bookmark_outline.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_arrow_down.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_arrow_down.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_paypal.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_paypal.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_keyboard_arrow_right.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_keyboard_arrow_right.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_arrow_up.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_arrow_up.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_redo.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_redo.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_save.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_save.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_undo.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_undo.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_fab_add.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_fab_add.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_search.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_search.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_add.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_add.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_close.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_close.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_overflow.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_overflow.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_action_bookmark.png",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_bookmark.png"
+    }
+]

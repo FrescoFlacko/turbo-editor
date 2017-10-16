@@ -1,0 +1,7 @@
+#Tue Mar 07 13:40:15 EST 2017
+base.0=/home/yanique/git-repos/turbo-editor/app-pro/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7d7e04e725611d2b9e5112edc8e4685617f366cc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/yanique/git-repos/turbo-editor/app-pro/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e90d86cb12b84453f24de240afb5fb19dbecb256/classes.dex
+base.1=/home/yanique/git-repos/turbo-editor/app-pro/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e90d86cb12b84453f24de240afb5fb19dbecb256
+file.0=/home/yanique/git-repos/turbo-editor/app-pro/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7d7e04e725611d2b9e5112edc8e4685617f366cc/classes.dex

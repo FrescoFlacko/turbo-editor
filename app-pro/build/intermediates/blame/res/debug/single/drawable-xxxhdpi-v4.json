@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/app-pro/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_people_white_36dp.png",
+        "source": "/home/yanique/git-repos/turbo-editor/app-pro/build/intermediates/exploded-aar/turbo-editor.libraries/sharedCode/unspecified/res/drawable-xxxhdpi-v4/ic_people_white_36dp.png"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/app-pro/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/yanique/git-repos/turbo-editor/app-pro/build/intermediates/exploded-aar/turbo-editor.libraries/sharedCode/unspecified/res/drawable-xxxhdpi-v4/ic_launcher.png"
+    }
+]

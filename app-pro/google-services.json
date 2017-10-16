@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "836955107901",
+    "firebase_url": "https://turbo-editor-cf5ae.firebaseio.com",
+    "project_id": "turbo-editor-cf5ae",
+    "storage_bucket": "turbo-editor-cf5ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836955107901:android:e9e51cc40e82dae4",
+        "android_client_info": {
+          "package_name": "com.syntacs.firepadtestapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836955107901-euncj74q766mtq7n0vqi3judm9iu0rhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMJCeWifI1TSShVeH1_MUzvNTMR3yOYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836955107901:android:8730889a2058aaf3",
+        "android_client_info": {
+          "package_name": "com.maskyn.fileeditorpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836955107901-euncj74q766mtq7n0vqi3judm9iu0rhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMJCeWifI1TSShVeH1_MUzvNTMR3yOYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
