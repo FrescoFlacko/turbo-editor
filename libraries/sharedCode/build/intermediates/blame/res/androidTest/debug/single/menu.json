@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/menu/fragment_editor_search.xml",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/menu/fragment_editor_search.xml"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/menu/popup_new_file.xml",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/menu/popup_new_file.xml"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/menu/activity_select_file.xml",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/menu/activity_select_file.xml"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/menu/fragment_editor.xml",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/bundles/debug/res/menu/fragment_editor.xml"
+    }
+]

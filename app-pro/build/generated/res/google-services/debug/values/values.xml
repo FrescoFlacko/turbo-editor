@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">836955107901-euncj74q766mtq7n0vqi3judm9iu0rhl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://turbo-editor-cf5ae.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">836955107901</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuMJCeWifI1TSShVeH1_MUzvNTMR3yOYg</string>
+    <string name="google_app_id" translatable="false">1:836955107901:android:8730889a2058aaf3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuMJCeWifI1TSShVeH1_MUzvNTMR3yOYg</string>
+    <string name="google_storage_bucket" translatable="false">turbo-editor-cf5ae.appspot.com</string>
+</resources>

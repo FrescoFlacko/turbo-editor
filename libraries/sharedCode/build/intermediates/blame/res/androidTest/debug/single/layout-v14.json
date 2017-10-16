@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v14/changelogrow_layout.xml",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/library/1.5.2/res/layout-v14/changelogrow_layout.xml"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v14/changelogrow_material_layout.xml",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/library/1.5.2/res/layout-v14/changelogrow_material_layout.xml"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v14/changelogrowheader_layout.xml",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/library/1.5.2/res/layout-v14/changelogrowheader_layout.xml"
+    },
+    {
+        "merged": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/res/merged/androidTest/debug/layout-v14/changelogrowheader_material_layout.xml",
+        "source": "/home/yanique/git-repos/turbo-editor/libraries/sharedCode/build/intermediates/exploded-aar/com.github.gabrielemariotti.changeloglib/library/1.5.2/res/layout-v14/changelogrowheader_material_layout.xml"
+    }
+]
